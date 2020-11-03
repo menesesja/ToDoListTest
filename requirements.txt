@@ -1,0 +1,18 @@
+django >= 2.2.13, < 3.0
+gunicorn
+django-heroku
+asgiref
+colorama
+isort
+lazy-object-proxy
+mccabe
+pip
+pylint
+pytz
+setuptools
+six
+sqlparse
+toml
+typed-ast
+wrapt
+whitenoise
